@@ -43,8 +43,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
 </div>
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs?username=L0nelys016&theme=highcontrast&hide_title=false&layout=compact&langs_count=6&hide_progress=false" alt="Top Languages">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=L0nelys016&show_icons=true&theme=highcontrast&count_private=true" alt="GitHub Stats">
-</p>
